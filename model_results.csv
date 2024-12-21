@@ -1,0 +1,5 @@
+Model,R2 Score
+Support Vector Machine,0.15584985708533672
+Random Forest,0.8767730110154339
+Linear Regression,0.8789444226854977
+Gradient Boosting,0.874537866322643
